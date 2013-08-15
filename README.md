@@ -1,3 +1,6 @@
+### FIRST, First, a note ###
+This project is in no way affiliated with Reddit_Enhancement_Suite.  It is a separate project used for education and general Reddit tinkering.  Please feel free to use though, and email me at pwaivers@gmail.com with any and all questions.
+
 For general documentation, see the RES Wiki (http://redditenhancementsuite.com:8080/wiki/), at least until the new documentation is finished.
 
 ### FIRST, a note ###
